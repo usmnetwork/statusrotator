@@ -1,0 +1,7 @@
+Token = ""
+Status = "dnd"
+Messages = "message1,message2"
+Emojis = "🔥,✨"
+Speed Rotator = "5"
+Clear Enabled = "no"
+Clear Interval = "5"
