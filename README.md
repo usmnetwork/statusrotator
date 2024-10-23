@@ -4,7 +4,7 @@ Status = "dnd" (online/dnd/idle)
 
 Messages = "message1,message2" (Messages)
 
-Emojis = "🔥,✨" (Emojist)
+Emojis = "🔥,✨" (Emojis)
 
 Speed Rotator = "5" (Speed rotator)
 
